@@ -55,9 +55,17 @@
 3. 包含 BepInEx 5.4.23.2（LGPL-2.1 许可，见 LICENSE-BepInEx.txt）。
 4. 日志：BepInEx\LogOutput.log
 
+【作者的其他作品】
+· HumanitZ（僵尸生存）内置修改器 HTZ Trainer —— 736种物品/车辆/状态锁定/
+  僵尸/世界控制，UE4SS 悬浮菜单，一键安装：
+  https://github.com/qinchuanzhang8-sketch/HTZTrainer
+· 本模组主页（更新与更多版本都会在这里发布）：
+  https://github.com/qinchuanzhang8-sketch/MadIslandFreedom
+
 【支持作者】
-如果这个模组帮到了你，欢迎扫描包内【打赏码.png】请作者喝杯奶茶，
-微信 / 支付宝扫码均可，感谢支持！
+如果这个模组帮到了你，包里有张诚意满满的图——
+「支持一下，拜托拜托，Thanks♪(･ω･)ﾉ」，
+微信 / 支付宝扫码请作者喝杯奶茶，感谢支持！
 
 【版本】
 v1.3.0（首个公开版）
